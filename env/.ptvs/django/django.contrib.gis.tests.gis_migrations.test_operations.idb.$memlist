@@ -1,0 +1,13 @@
+OperationTests
+HAS_GEOMETRY_COLUMNS
+TransactionTestCase
+HAS_SPATIAL_DB
+migrations
+unicode_literals
+skipUnless
+GeometryColumns
+ProjectState
+models
+connection
+fields
+Migration

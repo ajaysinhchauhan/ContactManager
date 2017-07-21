@@ -1,0 +1,8 @@
+spatialite
+util
+adapter
+mysql
+oracle
+postgis
+base
+utils

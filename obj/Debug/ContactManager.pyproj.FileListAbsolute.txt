@@ -1,0 +1,15 @@
+F:\demo\dJango\ContactManager\bin\Microsoft.PythonTools.WebRole.dll
+F:\demo\dJango\ContactManager\obj\Debug\attach_server.py
+F:\demo\dJango\ContactManager\obj\Debug\visualstudio_py_debugger.py
+F:\demo\dJango\ContactManager\obj\Debug\visualstudio_py_repl.py
+F:\demo\dJango\ContactManager\obj\Debug\visualstudio_py_util.py
+F:\demo\dJango\ContactManager\obj\Debug\__init__.py
+F:\demo\dJango\ContactManager\obj\Debug\__main__.py
+F:\demo\dJango\ContactManager\bin\AzureSetup.cfg
+F:\demo\dJango\ContactManager\bin\Microsoft.PythonTools.AzureSetup.exe
+F:\demo\dJango\ContactManager\bin\Microsoft.PythonTools.AzureSetup.exe.config
+F:\demo\dJango\ContactManager\bin\wfastcgi.py
+F:\demo\dJango\ContactManager\obj\Debug\deployment-updated-orig-prefix.txt
+F:\demo\dJango\ContactManager\ptvs_virtualenv_proxy.py
+F:\demo\dJango\ContactManager\obj\Debug\web.config
+F:\demo\dJango\ContactManager\obj\Debug\web.debug.config
